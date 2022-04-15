@@ -1,4 +1,4 @@
-# react-component-lib
+# react-library-boilerplate
 For more details: https://github.com/michal-wrzosek/react-component-lib
 
 ## Installation:
