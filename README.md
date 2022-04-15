@@ -13,4 +13,5 @@ It will install:
 ## Developing your library:
 - Add your new component into the src/components folder
 - Files must be .tsx
-![image](https://user-images.githubusercontent.com/63880187/163592811-16a57f4c-24b4-4719-99f6-98c7e98db220.png)
+![image](https://user-images.githubusercontent.com/63880187/163605938-bd315b52-941a-4ba7-9f49-d3cd2f7f45f4.png)
+
