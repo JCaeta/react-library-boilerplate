@@ -10,6 +10,8 @@ npm i
 It will install:
 - `dependencies` and `devDependencies` from ./package.json
 
+`npm run storybook` for testing
+
 ## Developing your library:
 - Add your new component into the src/components folder
 - Files must be .tsx
