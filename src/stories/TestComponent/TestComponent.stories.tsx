@@ -8,10 +8,3 @@ export default
 }
 
 export const Primary = () => <TestComponent/>;
-
-// export const Primary = Template.bind({});
-// Template.args = 
-// {
-//     arg1: 'this is a string',
-//     arg2: 123
-// }
