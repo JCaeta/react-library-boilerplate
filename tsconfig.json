@@ -4,6 +4,7 @@
     "declarationDir": "./dist",
     "strict": true,
     "allowSyntheticDefaultImports": true,
+    "allowJs": true,
     "sourceMap": true,
     "noUnusedParameters": true,
     "strictNullChecks": true,
