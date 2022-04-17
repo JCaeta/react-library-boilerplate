@@ -18,9 +18,9 @@ It will install:
 ![image](https://user-images.githubusercontent.com/63880187/163710656-17d5b00c-6c05-4247-94b5-bdfa95068b24.png)
 
 ## Publishing your library
-- We need configure the .npmrc file into our C:\Users\User folder (in Windows)
+- We need to configure the .npmrc file into our C:\Users\User folder (in Windows)
 - That file cannot be in our project folder
-- Create a file if not exists or replace with te following code:
+- Create a file if not exists or replace it with the following code:
 ```
 registry=https://registry.npmjs.org/
 @YOUR_GITHUB_USERNAME:registry=https://npm.pkg.github.com/
